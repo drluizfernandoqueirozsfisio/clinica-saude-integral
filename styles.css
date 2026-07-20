@@ -468,6 +468,11 @@ section.alt{ background: var(--cream-alt); }
 .contact-list strong{ display:block; color:var(--coffee-deep); font-size:.98rem; }
 .contact-list span{ color: var(--ink-soft); font-size:.92rem; }
 
+.map-wrap{ margin-top: 44px; }
+.map-embed{
+  display:block; width:100%; border-radius: var(--radius-lg); overflow:hidden;
+}
+
 @media (max-width: 900px){
   .contact-grid{ grid-template-columns:1fr; gap:32px; }
   .contact-photo{ max-width:340px; }
