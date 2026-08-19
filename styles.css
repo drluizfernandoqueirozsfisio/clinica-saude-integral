@@ -468,7 +468,7 @@ section.alt{ background: var(--bg-alt); }
 .contact-list li{ display:flex; gap:16px; align-items:flex-start; }
 .contact-list .ic{ width:24px; height:24px; color:var(--turquoise); flex-shrink:0; margin-top:2px; }
 .contact-list strong{ display:block; color:var(--teal-deep); font-size:.98rem; }
-.contact-list span, .contact-list a{ color: var(--ink-soft); font-size:.92rem; text-decoration:none; }
+.contact-list span, .contact-list a{ color: var(--ink-soft); font-size:.92rem; text-decoration:none; display:block; }
 .contact-list a:hover{ color: var(--turquoise); text-decoration:underline; }
 
 .map-wrap{ margin-top: 44px; }
