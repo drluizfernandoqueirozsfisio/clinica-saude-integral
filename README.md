@@ -1,4 +1,4 @@
-# Clínica Saúde Integral — Site Pilates Clínico
+# Saúde Integrada — Site Pilates Clínico
 
 Site estático de página única (SPA simples, sem build), pronto para publicar no **GitHub Pages**.
 
